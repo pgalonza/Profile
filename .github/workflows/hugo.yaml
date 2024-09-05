@@ -1,0 +1,53 @@
+name: Deploy Hugo site to Hosting
+
+on:
+  push:
+    branches:
+      - master
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.129.0
+    steps:
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+        run: hugo --gc --minify
+      - name: Archive hugo artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: hugo-artifact
+          path: ./public
+
+  deploy-hosting:
+    runs-on: ubuntu-latest
+    environment: jino
+    needs: build
+    steps:
+    - uses: actions/checkout@v4
+    - name: Download hugo artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: hugo-artifact
+        path: public
+    - name: rsync deployments
+      uses: burnett01/rsync-deployments@7.0.1
+      with:
+        switches: -avzr --delete
+        path: public/
+        remote_path: 	./domains/${{ vars.DOMAIN_NAME }}/
+        remote_host: ${{ vars.SFTP_HOST }}
+        remote_user: ${{ secrets.SFTP_USER }}
+        remote_key: ${{ secrets.SFTP_KEY }}

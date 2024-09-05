@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 2
+
+title = "Profile"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  description = "Profile of Peter Galonza, contacts, skills and projects"
+
+[params.author]
+  name = "Peter Galonza"
+  image = "img/profile-photo.jpg"
+  headline = "DevOps-engineer"
+  bio = "DevOps-engineer"
+  links = [
+     { email = "mailto:p.galonza@evaron.ru" },
+     { github = "https://github.com/pgalonza" },
+     { gitlab = "https://gitlab.com/pgalonza" },
+     { dzen = "https://dzen.ru/pgalonza" },
+     { notes = "https://notes.evaron.ru/" },
+  ]
