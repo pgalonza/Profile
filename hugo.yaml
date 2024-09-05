@@ -1,10 +1,7 @@
-baseURL: 'https://profile.evaron.ru/'
-languageCode: 'ru-ru'
-title: 'Profile'
+baseURL: 'https://profile.evaron.ru'
 
 languages:
   en:
     contentDir: content/en
   ru:
     contentDir: content/ru
-
