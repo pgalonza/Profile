@@ -5,3 +5,8 @@ languages:
     contentDir: content/en
   ru:
     contentDir: content/ru
+
+params:
+  description: Text about my cool site
+  images:
+  - site-feature-image.jpg
