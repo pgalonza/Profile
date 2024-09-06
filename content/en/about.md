@@ -68,6 +68,7 @@ In addition, I am interested in information security and SRE (Site Reliability E
 - Open Policy Agent
 - RenPy, Unity3d, LibGDX
 - Scala, Akka
+- Thrift, Protobuf
 
 ## Presentations
 

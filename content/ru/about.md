@@ -69,6 +69,7 @@ summary: ""
 - Open Policy Agent
 - RenPy, Unity3d, LibGDX
 - Scala, Akka
+- Thrift, Protobuf
 
 ## Доклады
 
