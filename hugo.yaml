@@ -7,6 +7,5 @@ languages:
     contentDir: content/ru
 
 params:
-  description: Text about my cool site
   images:
-  - site-feature-image.jpg
+    - site/site-image.jpg
