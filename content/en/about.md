@@ -53,17 +53,21 @@ In addition, I am interested in information security and SRE (Site Reliability E
 - Postman
 - JMeter
 - GoLang
+- Java
 - Podman, Docker
 - Wireguard
 - Github Actions
 - Yandex Cloud
 - Terraform
 - Vagrand
+- HAProxy
 - Мicrocontrollers and single-board computers
     - UART
     - Raspberry PI
     - Arduino
 - Open Policy Agent
+- RenPy, Unity3d, LibGDX
+- Scala, Akka
 
 ## Presentations
 
@@ -71,11 +75,25 @@ In addition, I am interested in information security and SRE (Site Reliability E
 
 ## Professional development
 
-- Postgres for testers (SoftLine)
-- Mentoring (PSBank)
-- IPv6 Certification (Hurricane Electric)
-- DevOps-engineer (Skillbox)
-- Python-developer from nothing (Skillbox)
-- SRE (Slurm)
-- Digium, Asterisk administrator (qtraining)
-- MTCNA (MikroTik-Courses)
+- Postgres for testers. (SoftLine)
+- Mentoring. (PSBank)
+- IPv6 Certification. (Hurricane Electric)
+- DevOps-engineer. (Skillbox)
+- Python-developer from nothing. (Skillbox)
+- SRE. (Slurm)
+- Digium, Asterisk administrator. (qtraining)
+- MTCNA. (MikroTik-Courses)
+
+## Books
+
+- Kanban Method. Basic practice. (Alexey Pimanov)
+- The project manager's handbook. What you need to know to manage IT, digital and other projects taking into account Russian realities. (Vladimir Zavertailov)
+- NGINX Cookbook. (Derek DeJonghe)
+- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale. (Neha Narkhede, Gwen Shapira, Todd Palino)
+- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations. (Nicole Forsgren, Jez Humble, Gene Kim)
+- How to Win Friends and Influence People. (Dale Carnegie)
+- Ansible: Up and Running”. 2nd edition. (Rene Moser, Lorin Hochstein)
+- Internet of Network Programmability and Automation. (Jason Edelman, Scott S. Lowe, Matt Oswalt)
+- Computer Networks. 5th edition. ( Andrew S. Tanenbaum, Nick Fimster, David J. Wetherall)
+- Computer Viruses and Antiviruses: A Programmer’s Perspective. (Konstantin Klimentyev)
+- BIOS: Overclocking and PC Optimization Guide. (Alexander Zaika)
