@@ -53,7 +53,7 @@ In addition, I am interested in information security and SRE (Site Reliability E
 - Postman
 - JMeter
 - GoLang
-- Java
+- Java, Scala, Akka
 - Podman, Docker
 - Wireguard
 - Github Actions
@@ -67,8 +67,8 @@ In addition, I am interested in information security and SRE (Site Reliability E
     - Arduino
 - Open Policy Agent
 - RenPy, Unity3d, LibGDX
-- Scala, Akka
 - Thrift, Protobuf
+- Joomla, Drupal, Wordpress, MODX
 
 ## Presentations
 

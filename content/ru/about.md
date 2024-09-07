@@ -54,7 +54,7 @@ summary: ""
 - Postman
 - JMeter
 - GoLang
-- Java
+- Java, Scala, Akka
 - Podman, Docker
 - Wireguard
 - Github Actions
@@ -70,6 +70,7 @@ summary: ""
 - RenPy, Unity3d, LibGDX
 - Scala, Akka
 - Thrift, Protobuf
+- Joomla, Drupal, Wordpress, MODX
 
 ## Доклады
 
