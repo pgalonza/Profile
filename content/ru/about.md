@@ -46,6 +46,7 @@ summary: ""
 - Consul
 - OpenVPN
 - Postfix,Dovecot, iRedMail
+- Jenkins
 
 ## Некорпоративный опыт
 
