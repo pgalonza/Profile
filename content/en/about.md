@@ -99,3 +99,57 @@ In addition, I am interested in information security and SRE (Site Reliability E
 - Computer Networks. 5th edition. ( Andrew S. Tanenbaum, Nick Fimster, David J. Wetherall)
 - Computer Viruses and Antiviruses: A Programmer’s Perspective. (Konstantin Klimentyev)
 - BIOS: Overclocking and PC Optimization Guide. (Alexander Zaika)
+
+## Portfolio
+
+{{< figure
+    src="portfolio/psb-3.jpeg"
+    caption="Mentor's Certificate"
+    >}}
+
+{{< figure
+    src="portfolio/asterisk-dcaa.jpeg"
+    caption="Asterisk Administrator Certificate"
+    >}}
+
+{{< figure
+    src="portfolio/Asterisk-qtCAA.jpeg"
+    caption="Asterisk Administrator Certificate"
+    >}}
+
+{{< figure
+    src="portfolio/ipv6-sage.jpeg"
+    caption="IPv6 Certificate"
+    >}}
+
+{{< figure
+    src="portfolio/mikrotik-mtcna.jpeg"
+    caption="MTCNA Certificate"
+    >}}
+
+{{< figure
+    src="portfolio/garant.jpeg"
+    caption="Garant Administrator Certificate"
+    >}}
+
+{{< figure
+    src="portfolio/Synergy.jpeg"
+    caption="Certificate of performance in the framework of the Congress"
+    >}}
+
+---
+
+{{< figure
+    src="portfolio/psb-1.jpeg"
+    caption="Сommendation 2023"
+    >}}
+
+{{< figure
+    src="portfolio/psb-2.jpeg"
+    caption="Сommendation 2022"
+    >}}
+
+{{< figure
+    src="portfolio/FGBU-ZHKY-MO-RF.jpeg"
+    caption="Сommendation 2018"
+    >}}

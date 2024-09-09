@@ -101,3 +101,57 @@ summary: ""
 - Компьютерные сети. 5-е издание. (Таненбаум Эндрю, Фимстер Ник, Уэзеролл Дэвид)
 - Компьютерные вирусы и антивирусы: взгляд программиста. (Климентьев Константин Евгеньевич)
 - BIOS. Разгон и оптимизация компьютера. (Александр Заика)
+
+## Портфолио
+
+{{< figure
+    src="portfolio/psb-3.jpeg"
+    caption="Сертификат наставника"
+    >}}
+
+{{< figure
+    src="portfolio/asterisk-dcaa.jpeg"
+    caption="Сертификат администратора Asterisk"
+    >}}
+
+{{< figure
+    src="portfolio/Asterisk-qtCAA.jpeg"
+    caption="Сертификат администратора Asterisk"
+    >}}
+
+{{< figure
+    src="portfolio/ipv6-sage.jpeg"
+    caption="Сертификат IPv6"
+    >}}
+
+{{< figure
+    src="portfolio/mikrotik-mtcna.jpeg"
+    caption="Сертификат MTCNA"
+    >}}
+
+{{< figure
+    src="portfolio/garant.jpeg"
+    caption="Сертификат администратора Garant"
+    >}}
+
+{{< figure
+    src="portfolio/Synergy.jpeg"
+    caption="Сертификат о выступлении в рамках конгресса"
+    >}}
+
+---
+
+{{< figure
+    src="portfolio/psb-1.jpeg"
+    caption="Благодарность 2023"
+    >}}
+
+{{< figure
+    src="portfolio/psb-2.jpeg"
+    caption="Благодарность 2022"
+    >}}
+
+{{< figure
+    src="portfolio/FGBU-ZHKY-MO-RF.jpeg"
+    caption="Благодарность 2018"
+    >}}
