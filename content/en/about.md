@@ -45,6 +45,7 @@ In addition, I am interested in information security and SRE (Site Reliability E
 - Consul
 - OpenVPN
 - Postfix,Dovecot, iRedMail
+- Jenkins
 
 ## Non-enterprise experience
 
