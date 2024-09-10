@@ -10,7 +10,9 @@ summary: ""
 
 Кроме того, меня интересует информационная безопасность и SRE (Site Reliability Engineering).
 
-## Hard-skills
+## Skills
+
+### Hard-skills
 
 - Python, Bash
 - *NIX, Red Hat based, Debian based. AstraLinux
@@ -25,12 +27,12 @@ summary: ""
 - Vector
 - PKI x509
 
-## Soft-skills
+### Soft-skills
 
 - Менторство
 - Kanban-метод
 
-## Имел опыт работы
+### Имел опыт работы
 
 - FreePBS, Asterisk, Yealink
 - Windows, Active Directory
@@ -48,7 +50,7 @@ summary: ""
 - Postfix,Dovecot, iRedMail
 - Jenkins
 
-## Некорпоративный опыт
+### Некорпоративный опыт
 
 - RabbitMQ
 - Ghidra
