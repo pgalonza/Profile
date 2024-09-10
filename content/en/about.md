@@ -10,7 +10,9 @@ I am currently working as a DevOps engineer. My task is to support the project a
 
 In addition, I am interested in information security and SRE (Site Reliability Engineering).
 
-## Hard-skills
+## Skills
+
+### Hard-skills
 
 - Python, Bash
 - *NIX, Red Hat based, Debian based. AstraLinux
@@ -25,11 +27,11 @@ In addition, I am interested in information security and SRE (Site Reliability E
 - Vector
 - PKI x509
 
-# Soft-skills
+### Soft-skills
 - Mentoring
 - Kanban-method
 
-## There was an experience
+### There was an experience
 
 - FreePBS, Asterisk, Yealink
 - Windows, Active Directory
@@ -47,7 +49,7 @@ In addition, I am interested in information security and SRE (Site Reliability E
 - Postfix,Dovecot, iRedMail
 - Jenkins
 
-## Non-enterprise experience
+### Non-enterprise experience
 
 - RabbitMQ
 - Ghidra
