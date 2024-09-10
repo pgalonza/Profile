@@ -75,7 +75,7 @@ In addition, I am interested in information security and SRE (Site Reliability E
 
 ## Presentations
 
-- [How was a migration monolith-project from one CI system to another](https://rutube.ru/video/79c97b6cf220bf67c8cc76bb122d4183/)
+- [How was a migration monolith-project from one CI system to another](https://rutube.ru/video/0753e70d163073e9d6c16b1bef8af9ee/)
 - Flow theory in Game Development. International Scientific Congress. The role of business in the transformation of society.
 
 ## Professional development
