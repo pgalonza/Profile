@@ -20,6 +20,7 @@ Active
 * NS PF RP2040 - Fork-репозитория в который добавлен CI для сборки прошивки Raspberry Pi Pico. [Github](https://github.com/pgalonza/ns-pf-rp2040)
 * Study Trainer Template - шаблон контейнера для создания окружения для практических задач и их проверки. [Github](https://github.com/pgalonza/study-trainer-template)
 * Open Policy Agent demo - демонстрация работы Open Policy Agent с Keycloak. [Github](https://github.com/pgalonza/opa-demo)
+* GitLab Pipeline Tool - desktop-утилита позволяющая использовать кнопки, выпадающие списки, флажки и другие элементы на подобии с Jenkins. [Github](https://github.com/pgalonza/gitlab-pipeline-tool)
 
 {{< badge >}}
 Archive
