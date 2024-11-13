@@ -21,6 +21,7 @@ Active
 * Study Trainer Template - шаблон контейнера для создания окружения для практических задач и их проверки. [Github](https://github.com/pgalonza/study-trainer-template)
 * Open Policy Agent demo - демонстрация работы Open Policy Agent с Keycloak. [Github](https://github.com/pgalonza/opa-demo)
 * GitLab Pipeline Tool - desktop-утилита позволяющая использовать кнопки, выпадающие списки, флажки и другие элементы на подобии с Jenkins. [Github](https://github.com/pgalonza/gitlab-pipeline-tool)
+* Evaron-AIO - автоматизация сборки неоходимых приложений и конфигураций для игровой консолию. [GitHub](https://github.com/pgalonza/Evaron-AIO)
 
 {{< badge >}}
 Archive
