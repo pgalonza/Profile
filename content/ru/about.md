@@ -108,6 +108,16 @@ summary: ""
 ## Портфолио
 
 {{< figure
+    src="portfolio/HighLoad-2024.jpeg"
+    caption="Участник конференции HighLoad++ 2024"
+    >}}
+
+{{< figure
+    src="portfolio/DevOpsConf-2024.jpeg"
+    caption="Участник конференции DevOpsConf 2024"
+    >}}
+
+{{< figure
     src="portfolio/psb-3.jpeg"
     caption="Сертификат наставника"
     >}}

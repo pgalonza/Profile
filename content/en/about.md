@@ -106,6 +106,16 @@ In addition, I am interested in information security(DevSevOps, Application Secu
 ## Portfolio
 
 {{< figure
+    src="portfolio/HighLoad-2024.jpeg"
+    caption="Conference participant HighLoad++ 2024"
+    >}}
+
+{{< figure
+    src="portfolio/DevOpsConf-2024.jpeg"
+    caption="Conference participant DevOpsConf 2024"
+    >}}
+
+{{< figure
     src="portfolio/psb-3.jpeg"
     caption="Mentor's Certificate"
     >}}
