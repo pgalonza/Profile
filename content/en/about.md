@@ -8,7 +8,7 @@ summary: ""
 
 I am currently working as a DevOps engineer. My task is to support the project at all stages of its life cycle. In addition, I act as a mentor and train interns. I like to share my knowledge and experience with other people, helping them develop. To keep up with the latest trends and techniques, I actively read technical literature, attend conferences and meetups, and take courses. This allows me to get inspired and find new ideas for my work.
 
-In addition, I am interested in information security(DevSevOps, Application Security) and SRE.
+In addition, I am interested in information security(DevSevOps, Application Security), SRE, Arhitecture.
 
 ## Skills
 
