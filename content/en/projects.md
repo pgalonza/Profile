@@ -18,7 +18,7 @@ Active
 * NS Hactool - Fork repository where CI has been added to build the utility for working with console firmware files. [Github](https://github.com/pgalonza/ns-hactool)
 * NS SYS Patch - Fork repository where CI was added to build the console module. [Github](https://github.com/pgalonza/ns-pf-rp2040)
 * NS PF RP2040 - Fork repository where CI was added to build Raspberry Pi Pico firmware. [Github](https://github.com/pgalonza/ns-pf-rp2040)
-* Study Trainer Template - container template for creating an environment for practical tasks and their verification. [Github](https://github.com/pgalonza/study-trainer-template)
+* Study Trainer Template - image template for creating an environment for practical tasks and their verification. [Github](https://github.com/pgalonza/study-trainer-template)
 * Open Policy Agent demo - demonstration of how the Open Policy Agent works with Keycloak. [Github](https://github.com/pgalonza/opa-demo)
 * GitLab Pipeline Tool - desktop-utility that allows you to use buttons, drop-down lists, checkboxes and other elements similar to Jenkins. [Github](https://github.com/pgalonza/gitlab-pipeline-tool)
 * Evaron-AIO - automating the installation of a set of applications and configurations for the game console. [GitHub](https://github.com/pgalonza/Evaron-AIO)
