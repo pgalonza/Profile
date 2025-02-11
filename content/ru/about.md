@@ -34,7 +34,7 @@ summary: ""
 
 ### Имел опыт работы
 
-- FreePBS, Asterisk, Yealink, Provisioning
+- FreePBX, Asterisk, Yealink, Provisioning
 - Windows, Active Directory
 - WebLogic
 - SAN, NAS
