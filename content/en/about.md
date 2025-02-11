@@ -33,7 +33,7 @@ In addition, I am interested in information security(DevSevOps, Application Secu
 
 ### There was an experience
 
-- FreePBS, Asterisk, Yealink, Provisioning
+- FreePBX, Asterisk, Yealink, Provisioning
 - Windows, Active Directory
 - WebLogic
 - SAN, NAS
