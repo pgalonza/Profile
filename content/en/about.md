@@ -101,7 +101,6 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - Internet of Network Programmability and Automation. (Jason Edelman, Scott S. Lowe, Matt Oswalt)
 - Computer Networks. 5th edition. ( Andrew S. Tanenbaum, Nick Fimster, David J. Wetherall)
 - Computer Viruses and Antiviruses: A Programmer’s Perspective. (Konstantin Klimentyev)
-- BIOS: Overclocking and PC Optimization Guide. (Alexander Zaika)
 
 ## Portfolio
 
