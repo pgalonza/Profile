@@ -107,6 +107,16 @@ summary: ""
 ## Портфолио
 
 {{< figure
+    src="portfolio/digital-gov-linux.jpg"
+    caption="Линукс продвинутый уровень"
+    >}}
+
+{{< figure
+    src="portfolio/DevOpsConf-2025.jpeg"
+    caption="Участник конференции DevOpsConf 2025"
+    >}}
+
+{{< figure
     src="portfolio/HighLoad-2024.jpeg"
     caption="Участник конференции HighLoad++ 2024"
     >}}
