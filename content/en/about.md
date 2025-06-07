@@ -105,6 +105,16 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 ## Portfolio
 
 {{< figure
+    src="portfolio/digital-gov-linux.jpeg"
+    caption="Linux advanced"
+    >}}
+
+{{< figure
+    src="portfolio/DevOpsConf-2025.jpeg"
+    caption="Conference participant DevOpsConf 2025"
+    >}}
+
+{{< figure
     src="portfolio/HighLoad-2024.jpeg"
     caption="Conference participant HighLoad++ 2024"
     >}}
