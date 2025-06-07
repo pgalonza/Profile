@@ -107,7 +107,7 @@ summary: ""
 ## Портфолио
 
 {{< figure
-    src="portfolio/digital-gov-linux.jpg"
+    src="portfolio/digital-gov-linux.jpeg"
     caption="Линукс продвинутый уровень"
     >}}
 
