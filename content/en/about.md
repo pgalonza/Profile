@@ -125,6 +125,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
     >}}
 
 {{< figure
+    src="portfolio/Postgresql-QA.jpeg"
+    caption="Postgresql QA Certificate"
+    >}}
+
+{{< figure
     src="portfolio/psb-3.jpeg"
     caption="Mentor's Certificate"
     >}}
