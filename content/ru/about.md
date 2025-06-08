@@ -127,6 +127,11 @@ summary: ""
     >}}
 
 {{< figure
+    src="portfolio/Postgresql-QA.jpeg"
+    caption="Postgresql QA Сертификат"
+    >}}
+
+{{< figure
     src="portfolio/psb-3.jpeg"
     caption="Сертификат наставника"
     >}}
