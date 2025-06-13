@@ -37,6 +37,6 @@ Archive
     >}}
 * Russian Student Joy - визуальная новелла с использованием движка RenPy.
 {{< figure
-    src="portfolio/Student`s-life.jpeg"
+    src="portfolio/Students-life.jpeg"
     caption="Скриншот"
     >}}

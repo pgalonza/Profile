@@ -7,6 +7,9 @@ title = "Профиль"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
+  displayName = "RU"
+  isoCode = "ru"
+
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
