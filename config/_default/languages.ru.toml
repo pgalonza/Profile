@@ -27,5 +27,6 @@ title = "Профиль"
      { dzen = "https://dzen.ru/pgalonza" },
      { notes = "https://notes.evaron.ru/" },
      { setka = "https://set.ki/NFb3KGJ" },
-     { hh_mono = "site/resume.pdf" },
+     { hh_mono = "https://naryan-mar.hh.ru/resume/acd1d42eff0279daab0039ed1f375076567a69" },
+     { habr_career = "https://career.habr.com/pgalonza" },
   ]
