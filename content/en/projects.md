@@ -37,6 +37,6 @@ Archive
     >}}
 * Russian Student Joy - a visual novel using the RenPy engine.
 {{< figure
-    src="portfolio/Student`s-life.jpeg"
+    src="portfolio/Students-life.jpeg"
     caption="Screenshot"
     >}}
