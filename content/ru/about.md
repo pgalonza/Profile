@@ -82,6 +82,7 @@ summary: ""
 
 ## Повышение квалификации
 
+- Архитектура программного обеспечения. (Яндекс Практикум)
 - Postgres для тестеровщиков. (SoftLine)
 - Наставничество. (PSBank)
 - IPv6 Certification. (Hurricane Electric)
