@@ -80,6 +80,7 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 ## Professional development
 
+- Software architecture. (Yandex Practicum)
 - Postgres for testers. (SoftLine)
 - Mentoring. (PSBank)
 - IPv6 Certification. (Hurricane Electric)
