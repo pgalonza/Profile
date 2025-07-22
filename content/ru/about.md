@@ -52,10 +52,11 @@ summary: ""
 
 ### Некорпоративный опыт
 
+- PlantumUML, C4 model
 - RabbitMQ
 - Ghidra
 - Postman
-- JMeter
+- JMeter. Locust
 - GoLang
 - Java, Scala, Akka
 - Podman, Docker
