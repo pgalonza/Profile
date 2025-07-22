@@ -51,10 +51,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 ### Non-enterprise experience
 
+- PlantumUML, C4 model
 - RabbitMQ
 - Ghidra
 - Postman
-- JMeter
+- JMeter, Locust
 - GoLang
 - Java, Scala, Akka
 - Podman, Docker
