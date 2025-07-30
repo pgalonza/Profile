@@ -95,6 +95,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 ## Portfolio
 
 {{< figure
+    src="portfolio/Diploma_ENG_YASA.jpeg"
+    caption="Software Architecture"
+    >}}
+
+{{< figure
     src="portfolio/digital-gov-linux.jpeg"
     caption="Linux advanced"
     >}}
