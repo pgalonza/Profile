@@ -97,6 +97,11 @@ summary: ""
 ## Портфолио
 
 {{< figure
+    src="portfolio/Diploma_RU_YASA.jpeg"
+    caption="Архитектура программногообеспечения"
+    >}}
+
+{{< figure
     src="portfolio/digital-gov-linux.jpeg"
     caption="Линукс продвинутый уровень"
     >}}
