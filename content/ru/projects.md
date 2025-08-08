@@ -23,6 +23,9 @@ Active
 Archive
 {{< /badge >}}
 * GitLab Pipeline Tool - desktop-утилита позволяющая использовать кнопки, выпадающие списки, флажки и другие элементы на подобии с Jenkins. [Github](https://github.com/pgalonza/gitlab-pipeline-tool)
+* Commit Jira Audit Report - скрипт анализирует коммиты в ветке release и ищет упоминания о задачах Jira в заголовке коммита. Затем выполняет поиск в Jira соответствующего релиза и создает отчет на основе связанных задач. [Github](https://github.com/pgalonza/commit-jira-audit-report)
+* Java Impact Report - скрипт формирует отчет с информацией на какие бизнес-процессы повлияли изменения пакетов и модулей. [Github](https://github.com/pgalonza/java-impact-report)
+* Gitlab CI Linter - скрипт для проверки файлов GitLab CI для "general pipeline", которые находятся в центральном репозитории. [Github](https://github.com/pgalonza/gitlab-ci-linter)
 * Open Policy Agent demo - демонстрация работы Open Policy Agent с Keycloak. [Github](https://github.com/pgalonza/opa-demo)
 * NS Atmosphere - Fork-репозитория в который добавлен CI для сборки прошивки консоли. [Github](https://github.com/pgalonza/ns-Atmosphere)
 * NS Switch Ghidra Guides - Fork-репозитория с переписанными и новыми Pyhton-скриптами для работы с файлами прошивки консоли. [Github](https://github.com/pgalonza/ns-Switch-Ghidra-Guides)
