@@ -18,6 +18,7 @@ Active
 * Study Trainer Template - шаблон образа для создания окружения для практических задач и их проверки. [Github](https://github.com/pgalonza/study-trainer-template)
 * Evaron-AIO - автоматизация сборки необходимых приложений и конфигураций для игровой консолию. [GitHub](https://github.com/pgalonza/Evaron-AIO)
 * WGDashboard - Fork-репозитория прокта дашборда для WireGuard в который добавлены улучшения. [Github](https://github.com/pgalonza/WGDashboard)
+* Study Java Serivce - Учебный микросервис на Spring Boot с функционалом Actuator и сборкой через Gradle. [Github](https://github.com/pgalonza/study-java-service)
 
 {{< badge >}}
 Archive
