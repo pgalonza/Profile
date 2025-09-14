@@ -63,6 +63,7 @@ summary: ""
 - Wireguard
 - Github Actions
 - Yandex Cloud
+- Kubernetes
 - Terraform
 - Vagrand
 - HAProxy
@@ -95,6 +96,11 @@ summary: ""
 
 
 ## Портфолио
+
+{{< figure
+    src="portfolio/k8s-yandex.jpeg"
+    caption="Yandex Managed Service for Kubernetes"
+    >}}
 
 {{< figure
     src="portfolio/Diploma_RU_YASA.jpeg"
