@@ -62,6 +62,7 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - Wireguard
 - Github Actions
 - Yandex Cloud
+- Kubernetes
 - Terraform
 - Vagrand
 - HAProxy
@@ -93,6 +94,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 
 ## Portfolio
+
+{{< figure
+    src="portfolio/k8s-yandex.jpeg"
+    caption="Yandex Managed Service for Kubernetes"
+    >}}
 
 {{< figure
     src="portfolio/Diploma_ENG_YASA.jpeg"
