@@ -19,6 +19,7 @@ Active
 * Evaron-AIO - automating the installation of a set of applications and configurations for the game console. [GitHub](https://github.com/pgalonza/Evaron-AIO)
 * WGDashboard - Fork-repository of WireGuard dashboard to which improvements have been added. [Github](https://github.com/pgalonza/WGDashboard)
 * Study Java Serivce - A training microservice on Spring Boot with Actuator functionality and assembly via Gradle. [Github](https://github.com/pgalonza/study-java-service)
+* k8s-yandex-cloud - a project to study the work of Terraform and Helm with Yandex Managed Service for Kubernetes. [Github](https://github.com/pgalonza/k8s-yandex-cloud)
 
 {{< badge >}}
 Archive
