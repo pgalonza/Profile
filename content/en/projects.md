@@ -20,6 +20,7 @@ Active
 * WGDashboard - Fork-repository of WireGuard dashboard to which improvements have been added. [Github](https://github.com/pgalonza/WGDashboard)
 * Study Java Serivce - A training microservice on Spring Boot with Actuator functionality and assembly via Gradle. [Github](https://github.com/pgalonza/study-java-service)
 * k8s-yandex-cloud - a project to study the work of Terraform and Helm with Yandex Managed Service for Kubernetes. [Github](https://github.com/pgalonza/k8s-yandex-cloud)
+* keycloak-postgresql-ha - a project to study the work of Keycloak and PostgreSQL in HA mode. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
 
 {{< badge >}}
 Archive
