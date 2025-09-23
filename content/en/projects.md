@@ -13,14 +13,14 @@ Active
 * Yandex Telegram Bot - Python serverless bot for sending prompt requests to YandexGPT and YandexART from deployment implementations with Terraform and Github Actions. [Github](https://github.com/pgalonza/yc-telegram-bot)
 * Linux Collection - Ansible collection for configuring and auditing servers and virtual machines using the Linux distribution. [Github](https://github.com/pgalonza/linux-collection/tree/main/roles)
 * vpn-deploy - ansible-playbook for performing preliminary settings on a server with a VPN. [GitHub](https://github.com/pgalonza/vpn-deploy/tree/master)
-* amnezia-client - Fork-repository of VPN project to which improvements have been added. [GitHub](https://github.com/pgalonza/amnezia-client)
+* Amnezia Client - Fork-repository of VPN project to which improvements have been added. [GitHub](https://github.com/pgalonza/amnezia-client)
 * NS PF RP2040 - Fork-repository where CI was added to build Raspberry Pi Pico firmware. [Github](https://github.com/pgalonza/ns-pf-rp2040)
 * Study Trainer Template - image template for creating an environment for practical tasks and their verification. [Github](https://github.com/pgalonza/study-trainer-template)
 * Evaron-AIO - automating the installation of a set of applications and configurations for the game console. [GitHub](https://github.com/pgalonza/Evaron-AIO)
 * WGDashboard - Fork-repository of WireGuard dashboard to which improvements have been added. [Github](https://github.com/pgalonza/WGDashboard)
 * Study Java Serivce - A training microservice on Spring Boot with Actuator functionality and assembly via Gradle. [Github](https://github.com/pgalonza/study-java-service)
-* k8s-yandex-cloud - a project to study the work of Terraform and Helm with Yandex Managed Service for Kubernetes. [Github](https://github.com/pgalonza/k8s-yandex-cloud)
-* keycloak-postgresql-ha - a project to study the work of Keycloak and PostgreSQL in HA mode. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
+* K8S Yandex Cloud - a project to study the work of Terraform and Helm with Yandex Managed Service for Kubernetes. [Github](https://github.com/pgalonza/k8s-yandex-cloud)
+* Keycloak Postgresql HA - a project to study the work of Keycloak and PostgreSQL in HA mode. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
 
 {{< badge >}}
 Archive
