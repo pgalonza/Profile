@@ -13,14 +13,14 @@ Active
 * Yandex Telegram Bot - Python serveless бот для отправки prompt-запросов в YandexGPT и YandexART с реализаций деплоя с Terraform и Github Actions. [Github](https://github.com/pgalonza/yc-telegram-bot)
 * Linux Collection - Ansible коллекция для настройки и аудита серверов и виртуальных машин использующих дистрибутив Linux. [Github](https://github.com/pgalonza/linux-collection/tree/main/roles)
 * vpn-deploy - ansible-плейбук для выполнения предварительных настроек на сервере с VPN. [GitHub](https://github.com/pgalonza/vpn-deploy/tree/master)
-* amnezia-client - Fork-репозитория VPN-проекта в который добавлены улучшения. [GitHub](https://github.com/pgalonza/amnezia-client)
+* Amnezia Client - Fork-репозитория VPN-проекта в который добавлены улучшения. [GitHub](https://github.com/pgalonza/amnezia-client)
 * NS PF RP2040 - Fork-репозитория в который добавлен CI для сборки прошивки Raspberry Pi Pico. [Github](https://github.com/pgalonza/ns-pf-rp2040)
 * Study Trainer Template - шаблон образа для создания окружения для практических задач и их проверки. [Github](https://github.com/pgalonza/study-trainer-template)
 * Evaron-AIO - автоматизация сборки необходимых приложений и конфигураций для игровой консолию. [GitHub](https://github.com/pgalonza/Evaron-AIO)
 * WGDashboard - Fork-репозитория прокта дашборда для WireGuard в который добавлены улучшения. [Github](https://github.com/pgalonza/WGDashboard)
 * Study Java Serivce - Учебный микросервис на Spring Boot с функционалом Actuator и сборкой через Gradle. [Github](https://github.com/pgalonza/study-java-service)
-* k8s-yandex-cloud - проект для изучения работы Terraform и Helm c Yandex Managed Service for Kubernetes. [Github](https://github.com/pgalonza/k8s-yandex-cloud)
-* keycloak-postgresql-ha - проект для изучения работы Keycloak и PostgreSQL в HA-режиме. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
+* K8S Yandex Cloud - проект для изучения работы Terraform и Helm c Yandex Managed Service for Kubernetes. [Github](https://github.com/pgalonza/k8s-yandex-cloud)
+* Keycloak Postgresql HA - проект для изучения работы Keycloak и PostgreSQL в HA-режиме. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
 
 {{< badge >}}
 Archive
