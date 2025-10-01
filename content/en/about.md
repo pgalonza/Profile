@@ -82,6 +82,7 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 ## Professional development
 
+- Managed Service for Kubernetes. (Yandex Practicum)
 - Software architecture. (Yandex Practicum)
 - Postgres for testers. (SoftLine)
 - Mentoring. (PSBank)
