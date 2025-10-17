@@ -52,10 +52,14 @@ summary: ""
 
 ### Некорпоративный опыт
 
+- Flask
+- Qdrant
+- LangChain, LLamaIndex
+- PgBouncer, Patroni
 - PlantumUML, C4 model
 - RabbitMQ
 - Ghidra
-- Postman
+- Postman, Bruno
 - JMeter. Locust
 - GoLang
 - Java, Scala, Akka
@@ -63,6 +67,9 @@ summary: ""
 - Wireguard
 - Github Actions
 - Yandex Cloud
+    - Yandex AI
+    - Yandex Managed Service for K8S
+    - Yandex Functions
 - Kubernetes
 - Terraform
 - Vagrand

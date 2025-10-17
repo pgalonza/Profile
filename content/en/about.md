@@ -51,10 +51,14 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 ### Non-enterprise experience
 
+- Flask
+- Qdrant
+- LangChain, LLamaIndex
+- PgBouncer, Patroni
 - PlantumUML, C4 model
 - RabbitMQ
 - Ghidra
-- Postman
+- Postman, Bruno
 - JMeter, Locust
 - GoLang
 - Java, Scala, Akka
@@ -62,6 +66,9 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - Wireguard
 - Github Actions
 - Yandex Cloud
+    - Yandex AI
+    - Yandex Managed Service for K8S
+    - Yandex Functions
 - Kubernetes
 - Terraform
 - Vagrand

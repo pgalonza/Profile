@@ -21,6 +21,7 @@ Active
 * Study Java Serivce - A training microservice on Spring Boot with Actuator functionality and assembly via Gradle. [Github](https://github.com/pgalonza/study-java-service)
 * K8S Yandex Cloud - a project to study the work of Terraform and Helm with Yandex Managed Service for Kubernetes. [Github](https://github.com/pgalonza/k8s-yandex-cloud)
 * Keycloak Postgresql HA - a project to study the work of Keycloak and PostgreSQL in HA mode. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
+* Retrieval-Augmented Generation project - a project to study the work of Retrieval-Augmented Generation. [Github](https://github.com/pgalonza/rag-project)
 
 {{< badge >}}
 Archive
