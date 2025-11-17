@@ -10,6 +10,14 @@ I am currently working as a DevOps engineer. My task is to support the project a
 
 In addition, I am interested in information security(DevSecOps, Application Security), SRE, Arhitecture.
 
+## Publications
+
+- 🌐 [Peter Galonza | Blog with Impostor syndrome](https://dzen.ru/pgalonza) - I analyze practical cases, share life hacks for IT specialists, and struggle with impostor syndrome.
+- 🌐 [Notes](https://notes.evaron.ru) - my notes: configuration templates, checklists for code review, tool collections.
+---
+- 🎬 [How was a migration monolith-project from one CI system to another](https://rutube.ru/video/0753e70d163073e9d6c16b1bef8af9ee/)
+- ✍️ Flow theory in Game Development. International Scientific Congress. The role of business in the transformation of society.
+
 ## Skills
 
 ### Hard-skills
@@ -81,11 +89,6 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - RenPy, Unity3d, LibGDX
 - Thrift, Protobuf
 - Joomla, Drupal, Wordpress, MODX
-
-## Presentations
-
-- [How was a migration monolith-project from one CI system to another](https://rutube.ru/video/0753e70d163073e9d6c16b1bef8af9ee/)
-- Flow theory in Game Development. International Scientific Congress. The role of business in the transformation of society.
 
 ## Professional development
 
