@@ -15,6 +15,7 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - 🌐 [Peter Galonza | Blog with Impostor syndrome](https://dzen.ru/pgalonza) - I analyze practical cases, share life hacks for IT specialists, and struggle with impostor syndrome.
 - 🌐 [Notes](https://notes.evaron.ru) - my notes: configuration templates, checklists for code review, tool collections.
 ---
+- 🎬 [A basic introduction to the world of GenAI and interactions with it](/files/Базовое-введение-в-мир-GenAI-и-взаимодействия-с-ним-full.pdf)
 - 🎬 [How was a migration monolith-project from one CI system to another](https://rutube.ru/video/0753e70d163073e9d6c16b1bef8af9ee/)
 - ✍️ Flow theory in Game Development. International Scientific Congress. The role of business in the transformation of society.
 
