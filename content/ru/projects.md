@@ -22,7 +22,7 @@ Active
 * **K8S Yandex Cloud** - проект для изучения работы Terraform и Helm c Yandex Managed Service for Kubernetes. [Github](https://github.com/pgalonza/k8s-yandex-cloud)
 * **Keycloak Postgresql HA** - проект для изучения работы Keycloak и PostgreSQL в HA-режиме. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
 * **Retrieval-Augmented Generation project** - проект для изучения работы Retrieval-Augmented Generation. [Github](https://github.com/pgalonza/rag-project)
-* **OpenSeeFace** - Fork-репозитория в который добавлена сборка Docker-образа и compose-файл. [Github](https://github.com/pgalonza/OpenSeeFace)
+* **OpenSeeFace** - Fork-репозитория в который добавлен docker-compose и добавлена интеграция с MediaPipe. [Github](https://github.com/pgalonza/OpenSeeFace)
 
 {{< badge >}}
 Archive
