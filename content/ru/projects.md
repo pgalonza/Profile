@@ -23,6 +23,7 @@ Active
 * **Keycloak Postgresql HA** - проект для изучения работы Keycloak и PostgreSQL в HA-режиме. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
 * **Retrieval-Augmented Generation project** - проект для изучения работы Retrieval-Augmented Generation. [Github](https://github.com/pgalonza/rag-project)
 * **OpenSeeFace** - Fork-репозитория в который добавлен docker-compose и добавлена интеграция с MediaPipe. [Github](https://github.com/pgalonza/OpenSeeFace)
+* **vk-wall-cleaner** - Fork-репозитория в котором исправлен поиск кнопки удаления поста на стене в VK. [GitHub](https://github.com/pgalonza/vk-wall-cleaner)
 
 {{< badge >}}
 Archive
