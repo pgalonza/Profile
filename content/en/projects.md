@@ -22,8 +22,9 @@ Active
 * **K8S Yandex Cloud** - a project to study the work of Terraform and Helm with Yandex Managed Service for Kubernetes. [Github](https://github.com/pgalonza/k8s-yandex-cloud)
 * **Keycloak Postgresql HA** - a project to study the work of Keycloak and PostgreSQL in HA mode. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
 * **Retrieval-Augmented Generation project** - a project to study the work of Retrieval-Augmented Generation. [Github](https://github.com/pgalonza/rag-project)
-* **OpenSeeFace** - The fork repository to which docker-compose has been added and integration with MediaPipe has been added. [Github](https://github.com/pgalonza/OpenSeeFace)
+* **OpenSeeFace** - The fork repository to which docker-compose has been added. [Github](https://github.com/pgalonza/OpenSeeFace)
 * **vk-wall-cleaner** - The fork repository in which the search for the delete button on the VK wall has been fixed. [GitHub](https://github.com/pgalonza/vk-wall-cleaner)
+* **Pipe2VTube** - VTube Studio Plugin for integration with Google MediaPipe using API. [Github](https://github.com/pgalonza/Pipe2VTube)
 
 {{< badge >}}
 Archive
