@@ -25,6 +25,7 @@ Active
 * **OpenSeeFace** - The fork repository to which docker-compose has been added. [Github](https://github.com/pgalonza/OpenSeeFace)
 * **vk-wall-cleaner** - The fork repository in which the search for the delete button on the VK wall has been fixed. [GitHub](https://github.com/pgalonza/vk-wall-cleaner)
 * **Pipe2VTube** - VTube Studio Plugin for integration with Google MediaPipe using API. [Github](https://github.com/pgalonza/Pipe2VTube)
+* **docker-build-demo** - This project demonstrates different approaches to building minimal Docker images using Go applications. [GitHub](https://github.com/pgalonza/docker-build-demo)
 
 {{< badge >}}
 Archive
