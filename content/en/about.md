@@ -35,6 +35,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - OpenSearch
 - Vector
 - PKI x509
+- Understanding regulatory requirements and industry standards
+    - GOST R 56939-2024
+    - GOST R ISO/IEC 12207
+    - GOST R 50922
+    - GOST R 58412
 
 ### Soft-skills
 - Mentoring
