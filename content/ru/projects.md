@@ -23,13 +23,13 @@ Active
 * **Keycloak Postgresql HA** - проект для изучения работы Keycloak и PostgreSQL в HA-режиме. [Github](https://github.com/pgalonza/keycloak-postgresql-ha)
 * **Retrieval-Augmented Generation project** - проект для изучения работы Retrieval-Augmented Generation. [Github](https://github.com/pgalonza/rag-project)
 * **OpenSeeFace** - Fork-репозитория в который добавлен docker-compose. [Github](https://github.com/pgalonza/OpenSeeFace)
-* **vk-wall-cleaner** - Fork-репозитория в котором исправлен поиск кнопки удаления поста на стене в VK. [GitHub](https://github.com/pgalonza/vk-wall-cleaner)
 * **Pipe2VTube** - VTube Studio плаги для интеграции с Google MediaPipe используя API. [Github](https://github.com/pgalonza/Pipe2VTube)
 * **docker-build-demo** - Этот проект демонстрирует разные подходы к созданию минимальных образов Docker. [GitHub](https://github.com/pgalonza/docker-build-demo)
 
 {{< badge >}}
 Archive
 {{< /badge >}}
+* **vk-wall-cleaner** - Fork-репозитория в котором исправлен поиск кнопки удаления поста на стене в VK. [GitHub](https://github.com/pgalonza/vk-wall-cleaner)
 * **GitLab Pipeline Tool** - desktop-утилита позволяющая использовать кнопки, выпадающие списки, флажки и другие элементы на подобии с Jenkins. [Github](https://github.com/pgalonza/gitlab-pipeline-tool)
 * **Commit Jira Audit Report** - скрипт анализирует коммиты в ветке release и ищет упоминания о задачах Jira в заголовке коммита. Затем выполняет поиск в Jira соответствующего релиза и создает отчет на основе связанных задач. [Github](https://github.com/pgalonza/commit-jira-audit-report)
 * **Java Impact Report** - скрипт формирует отчет с информацией на какие бизнес-процессы повлияли изменения пакетов и модулей. [Github](https://github.com/pgalonza/java-impact-report)
