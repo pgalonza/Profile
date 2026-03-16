@@ -1,9 +1,9 @@
 ---
 title: 'About'
-date: 2024-09-04T17:25:41+03:00
+date: 2026-03-17T00:00:00+03:00
 draft: false
-description: "About of Peter Galonza"
-summary: ""
+description: "Detailed information about skills, experience, and projects of DevOps engineer Peter Galonza. Expert in CI/CD automation"
+summary: "Detailed overview of skills, experience, and professional development of DevOps engineer Peter Galonza. Includes technical competencies, publications, and certifications."
 ---
 
 I am currently working as a DevOps engineer. My task is to support the project at all stages of its life cycle. In addition, I act as a mentor and train interns. I like to share my knowledge and experience with other people, helping them develop. To keep up with the latest trends and techniques, I actively read technical literature, attend conferences and meetups, and take courses. This allows me to get inspired and find new ideas for my work.
@@ -23,18 +23,28 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 ### Hard-skills
 
+#### Programming Languages
 - Python, Bash
-- *NIX, Red Hat based, Debian based. AstraLinux
-- GitLab CI
-- Git
-- Ansible
-- Nexus
+
+#### Operating Systems
+- *NIX, Red Hat based, Debian based, AstraLinux
+
+#### CI/CD
+- GitLab CI, Git, Ansible, Nexus
+
+#### Web Servers
 - Nginx
+
+#### Message Queues
 - Kafka
-- Keycloak
-- OpenSearch
-- Vector
-- PKI x509
+
+#### Security & Authentication
+- Keycloak, PKI x509
+
+#### Monitoring & Logging
+- OpenSearch, Vector
+
+#### Standards & Regulations
 - Understanding regulatory requirements and industry standards
     - GOST R 56939-2024
     - GOST R ISO/IEC 12207
@@ -60,14 +70,14 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - Maven/Gradle
 - Consul
 - OpenVPN
-- Postfix,Dovecot, iRedMail
+- Postfix, Dovecot, iRedMail
 - Jenkins
 
 ### Non-enterprise experience
 
 - Flask
 - Qdrant
-- LangChain, LLamaIndex
+- LangChain, LLamaIndex, Ollama, llama.cpp
 - PgBouncer, Patroni
 - PlantumUML, C4 model
 - RabbitMQ
@@ -85,9 +95,9 @@ In addition, I am interested in information security(DevSecOps, Application Secu
     - Yandex Functions
 - Kubernetes
 - Terraform
-- Vagrand
+- Vagrant
 - HAProxy
-- Мicrocontrollers and single-board computers
+- Microcontrollers and single-board computers
     - UART
     - Raspberry PI
     - Arduino

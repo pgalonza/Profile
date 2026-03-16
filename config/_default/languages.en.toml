@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 2
 
-title = "Profile"
+title = "Portfolio"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -13,13 +13,13 @@ title = "Profile"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Peter Galonza. Here you will find information about me, my skills, projects and contact details."
+  description = "DevOps engineer. Portfolio of projects, skills, and contact details for collaboration."
 
 [params.author]
   name = "Peter Galonza"
   image = "img/profile-photo.jpg"
-  headline = "DevOps-engineer"
-  bio = "DevOps-engineer"
+  headline = "DevOps Engineer"
+  bio = "Automating infrastructure, building resilient CI/CD pipelines, implementing DevSecOps practices."
   links = [
      { email = "mailto:p.galonza@evaron.ru" },
      { github = "https://github.com/pgalonza" },
