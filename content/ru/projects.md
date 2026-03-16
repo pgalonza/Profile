@@ -2,8 +2,8 @@
 title: 'Проекты'
 date: 2024-09-09T18:10:19+03:00
 draft: false
-description: "Проекты"
-summary: ""
+description: "Портфолио проектов DevOps-инженера Петра Галонзы: автоматизация CI/CD, развертывание Kubernetes, инфраструктура как код (Terraform, Ansible), мониторинг и безопасность."
+summary: "Коллекция реализованных проектов в области DevOps, SRE и DevSecOps. Включает инструменты для автоматизации, облачные развертывания, пет-проекты и open-source contributions."
 ---
 
 {{< badge >}}

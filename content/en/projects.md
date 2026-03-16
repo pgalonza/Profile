@@ -2,8 +2,8 @@
 title: 'Projects'
 date: 2024-09-09T18:10:19+03:00
 draft: false
-description: "Projects"
-summary: ""
+description: "Portfolio of DevOps engineer Peter Galonza: CI/CD automation, Kubernetes deployment, infrastructure as code (Terraform, Ansible), monitoring and security."
+summary: "Collection of implemented projects in DevOps, SRE and DevSecOps. Includes automation tools, cloud deployments, pet projects and open-source contributions."
 ---
 
 {{< badge >}}

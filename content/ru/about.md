@@ -1,9 +1,9 @@
 ---
 title: 'Обо мне'
-date: 2024-09-04T17:25:41+03:00
+date: 2026-03-17T00:00:00+03:00
 draft: false
-description: "О Пётр Галонза"
-summary: ""
+description: "Подробная информация о навыках, опыте и проектах DevOps-инженера Петра Галонзы. Эксперт в автоматизации CI/CD"
+summary: "Подробный обзор навыков, опыта и профессионального развития DevOps-инженера Петра Галонза. Включает технические компетенции, публикации и сертификаты."
 ---
 
 В настоящее время работаю DevOps-инженером. Моя задача — поддерживать проект на всех этапах его жизненного цикла. Также выступаю в роли ментора и обучаю стажёров. Мне нравится делиться своими знаниями и опытом с другими людьми, помогая им развиваться. Чтобы быть в курсе последних тенденций и методик, активно читаю техническую литературу, посещаю конференции и митапы, а также прохожу курсы. Это позволяет мне получать вдохновение и находить новые идеи для своей работы.
@@ -25,18 +25,28 @@ summary: ""
 
 ### Hard-skills
 
+#### Языки программирования
 - Python, Bash
-- *NIX, Red Hat based, Debian based. AstraLinux
-- GitLab CI
-- Git
-- Ansible
-- Nexus
+
+#### Операционные системы
+- *NIX, Red Hat based, Debian based, AstraLinux
+
+#### CI/CD
+- GitLab CI, Git, Ansible, Nexus
+
+#### Веб-серверы
 - Nginx
+
+#### Очереди сообщений
 - Kafka
-- Keycloak
-- OpenSearch
-- Vector
-- PKI x509
+
+#### Безопасность и аутентификация
+- Keycloak, PKI x509
+
+#### Мониторинг и логи
+- OpenSearch, Vector
+
+#### Стандарты и регуляторы
 - Понимание требований регуляторов и отраслевых стандартов
     - ГОСТ Р 56939-2024
     - ГОСТ Р ИСО/МЭК 12207
@@ -63,20 +73,20 @@ summary: ""
 - Maven/Gradle
 - Consul
 - OpenVPN
-- Postfix,Dovecot, iRedMail
+- Postfix, Dovecot, iRedMail
 - Jenkins
 
 ### Некорпоративный опыт
 
 - Flask
 - Qdrant
-- LangChain, LLamaIndex
+- LangChain, LLamaIndex, Ollama, llama.cpp
 - PgBouncer, Patroni
 - PlantumUML, C4 model
 - RabbitMQ
 - Ghidra
 - Postman, Bruno
-- JMeter. Locust
+- JMeter, Locust
 - GoLang
 - Java, Scala, Akka
 - Podman, Docker
@@ -88,7 +98,7 @@ summary: ""
     - Yandex Functions
 - Kubernetes
 - Terraform
-- Vagrand
+- Vagrant
 - HAProxy
 - Микрокотроллеры и одноплатные компьютеры
     - UART

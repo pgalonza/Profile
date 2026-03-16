@@ -16,7 +16,7 @@ enableImageLazyLoading = true
 enableImageWebp = true
 
 # robots = ""
-keywords = ["Пётр Галонза", "Профиль", "Портфолио", "Резюме", "Контакты", "Peter Galonza", "Profile", "Portfolio", "Resume", "Contacts"]
+keywords = ["Пётр Галонза", "Профиль", "Портфолио", "Резюме", "Контакты", "Peter Galonza", "Profile", "Portfolio", "Resume", "Contacts", "DevOps", "CI/CD", "SRE", "DevSecOps", "DevOps engineer", "site reliability engineering"]
 fingerprintAlgorithm = "sha256"
 
 [header]

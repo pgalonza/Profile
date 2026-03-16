@@ -3,7 +3,7 @@ languageName = "Русский"
 languageDirection = "ltr"
 weight = 1
 
-title = "Профиль"
+title = "Портфолио"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -13,13 +13,13 @@ title = "Профиль"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Пётр Галонза. Здесь вы найдёте информацию обо мне, моих навыках, проектах и контактные данные."
+  description = "DevOps-инженер. Портфолио проектов, навыки и контакты для сотрудничества."
 
 [params.author]
   name = "Пётр Галонза"
   image = "img/profile-photo.jpg"
   headline = "DevOps-инженер"
-  bio = "DevOps-инженер"
+  bio = "Автоматизирую инфраструктуру, строю отказоустойчивые CI/CD-процессы, внедряю DevSecOps-практики."
   links = [
      { email = "mailto:p.galonza@evaron.ru" },
      { github = "https://github.com/pgalonza" },
