@@ -126,6 +126,11 @@ summary: "Подробный обзор навыков, опыта и профе
 ## Портфолио
 
 {{< figure
+    src="portfolio/DevOpsConf-2026.jpeg"
+    caption="Участник конференции DevOpsConf 2026"
+    >}}
+
+{{< figure
     src="portfolio/k8s-yandex.jpeg"
     caption="Yandex Managed Service for Kubernetes"
     >}}
