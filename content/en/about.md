@@ -123,6 +123,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 ## Portfolio
 
 {{< figure
+    src="portfolio/DevOpsConf-2026.jpeg"
+    caption="Conference participant DevOpsConf 2026"
+    >}}
+
+{{< figure
     src="portfolio/k8s-yandex.jpeg"
     caption="Yandex Managed Service for Kubernetes"
     >}}
