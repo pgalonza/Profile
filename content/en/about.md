@@ -200,6 +200,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 ---
 
 {{< figure
+    src="portfolio/psb-4.jpeg"
+    caption="Сommendation 2025"
+    >}}
+
+{{< figure
     src="portfolio/psb-1.jpeg"
     caption="Сommendation 2023"
     >}}

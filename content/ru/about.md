@@ -203,6 +203,12 @@ summary: "Подробный обзор навыков, опыта и профе
 ---
 
 {{< figure
+    src="portfolio/psb-4.jpeg"
+    caption="Благодарность 2025"
+    >}}
+
+
+{{< figure
     src="portfolio/psb-1.jpeg"
     caption="Благодарность 2023"
     >}}
