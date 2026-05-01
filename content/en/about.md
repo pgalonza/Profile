@@ -81,7 +81,13 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - PgBouncer, Patroni
 - PlantumUML, C4 model
 - RabbitMQ
-- Ghidra
+- Security
+    - Ghidra
+    - Binwalk
+    - Burp Suite
+    - ZAProxy
+    - mitmproxy
+    - apk-mitm
 - Postman, Bruno
 - JMeter, Locust
 - GoLang

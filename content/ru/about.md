@@ -84,7 +84,13 @@ summary: "Подробный обзор навыков, опыта и профе
 - PgBouncer, Patroni
 - PlantumUML, C4 model
 - RabbitMQ
-- Ghidra
+- Security
+    - Ghidra
+    - Binwalk
+    - Burp Suite
+    - ZAProxy
+    - mitmproxy
+    - apk-mitm
 - Postman, Bruno
 - JMeter, Locust
 - GoLang
