@@ -60,59 +60,132 @@ summary: "Подробный обзор навыков, опыта и профе
 
 ### Имел опыт работы
 
+#### Телефония и VoIP
 - FreePBX, Asterisk, Yealink, Provisioning
+
+#### Операционные системы и управление идентификацией
 - Windows, Active Directory
+
+#### Серверы приложений
 - WebLogic
+
+#### Системы хранения
 - SAN, NAS
+
+#### Базы данных
 - MariaDB, PostgreSQL
-- VMWare(ESXI)
+
+#### Виртуализация
+- VMWare (ESXi)
+
+#### Мониторинг
 - Zabbix
-- Netwoking, MikroTik
-- CryproPro
+
+#### Сетевое оборудование
+- Networking, MikroTik
+
+#### Криптография и безопасность
+- CryptoPro
+
+#### Java экосистема
 - Java applications
 - Maven/Gradle
+
+#### Service Discovery и конфигурация
 - Consul
-- OpenVPN
+
+#### VPN
+- OpenVPN, L2TP, EoIP, IPsec
+
+#### Почтовые сервера
 - Postfix, Dovecot, iRedMail
+
+#### CI/CD
 - Jenkins
 
 ### Некорпоративный опыт
 
+#### Веб-фреймворки
 - Flask
+
+#### Векторные базы данных и поиск
 - Qdrant
+
+#### AI/ML инструменты
 - LangChain, LLamaIndex, Ollama, llama.cpp
+
+#### PostgreSQL инструменты
 - PgBouncer, Patroni
-- PlantumUML, C4 model
+
+#### Диаграммы и моделирование
+- PlantUML, C4 model
+
+#### Очереди сообщений
 - RabbitMQ
-- Security
-    - Ghidra
-    - Binwalk
-    - Burp Suite
-    - ZAProxy
-    - mitmproxy
-    - apk-mitm
+
+#### Инструменты безопасности
+- Ghidra
+- Binwalk
+- Burp Suite
+- ZAProxy
+- mitmproxy
+- apk-mitm
+
+#### API тестирование
 - Postman, Bruno
+
+#### Нагрузочное тестирование
 - JMeter, Locust
+
+#### Языки программирования
 - GoLang
-- Java, Scala, Akka
+- Java, Scala
+
+#### Фреймворки и библиотеки
+- Akka
+
+#### Контейнеризация
 - Podman, Docker
+
+#### VPN
 - Wireguard
+
+#### CI/CD
 - Github Actions
+
+#### Облачные сервисы
 - Yandex Cloud
     - Yandex AI
     - Yandex Managed Service for K8S
     - Yandex Functions
+
+#### Оркестрация контейнеров
 - Kubernetes
+
+#### Инфраструктура как код
 - Terraform
+
+#### Виртуализация и окружения разработки
 - Vagrant
+
+#### Балансировщики нагрузки
 - HAProxy
-- Микрокотроллеры и одноплатные компьютеры
-    - UART
-    - Raspberry PI
-    - Arduino
+
+#### Встраиваемые системы и микроконтроллеры
+- UART
+- Raspberry PI
+- Arduino
+
+#### Политики безопасности
 - Open Policy Agent
+
+#### Игровые движки
 - RenPy, Unity3d, LibGDX
+
+#### Сериализация и RPC
 - Thrift, Protobuf
+
+#### CMS
 - Joomla, Drupal, Wordpress, MODX
 
 ## Повышение квалификации

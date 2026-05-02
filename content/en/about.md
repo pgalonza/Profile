@@ -57,59 +57,132 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 ### There was an experience
 
+#### Telephony and VoIP
 - FreePBX, Asterisk, Yealink, Provisioning
+
+#### Operating Systems and Identity Management
 - Windows, Active Directory
+
+#### Application Servers
 - WebLogic
+
+#### Storage Systems
 - SAN, NAS
+
+#### Databases
 - MariaDB, PostgreSQL
-- VMWare(ESXI)
+
+#### Virtualization
+- VMWare (ESXi)
+
+#### Monitoring
 - Zabbix
-- Netwoking, MikroTik
-- CryproPro
+
+#### Network Equipment
+- Networking, MikroTik
+
+#### Cryptography and Security
+- CryptoPro
+
+#### Java Ecosystem
 - Java applications
 - Maven/Gradle
+
+#### Service Discovery and Configuration
 - Consul
-- OpenVPN
+
+#### VPN
+- OpenVPN, L2TP, EoIP, IPsec
+
+#### Mail Servers
 - Postfix, Dovecot, iRedMail
+
+#### CI/CD
 - Jenkins
 
 ### Non-enterprise experience
 
+#### Web Frameworks
 - Flask
+
+#### Vector Databases and Search
 - Qdrant
+
+#### AI/ML Tools
 - LangChain, LLamaIndex, Ollama, llama.cpp
+
+#### PostgreSQL Tools
 - PgBouncer, Patroni
-- PlantumUML, C4 model
+
+#### Diagrams and Modeling
+- PlantUML, C4 model
+
+#### Message Queues
 - RabbitMQ
-- Security
-    - Ghidra
-    - Binwalk
-    - Burp Suite
-    - ZAProxy
-    - mitmproxy
-    - apk-mitm
+
+#### Security Tools
+- Ghidra
+- Binwalk
+- Burp Suite
+- ZAProxy
+- mitmproxy
+- apk-mitm
+
+#### API Testing
 - Postman, Bruno
+
+#### Load Testing
 - JMeter, Locust
+
+#### Programming Languages
 - GoLang
-- Java, Scala, Akka
+- Java, Scala
+
+#### Frameworks and Libraries
+- Akka
+
+#### Containerization
 - Podman, Docker
+
+#### VPN
 - Wireguard
+
+#### CI/CD
 - Github Actions
+
+#### Cloud Services
 - Yandex Cloud
     - Yandex AI
     - Yandex Managed Service for K8S
     - Yandex Functions
+
+#### Container Orchestration
 - Kubernetes
+
+#### Infrastructure as Code
 - Terraform
+
+#### Virtualization and Development Environments
 - Vagrant
+
+#### Load Balancers
 - HAProxy
-- Microcontrollers and single-board computers
-    - UART
-    - Raspberry PI
-    - Arduino
+
+#### Embedded Systems and Microcontrollers
+- UART
+- Raspberry PI
+- Arduino
+
+#### Security Policies
 - Open Policy Agent
+
+#### Game Engines
 - RenPy, Unity3d, LibGDX
+
+#### Serialization and RPC
 - Thrift, Protobuf
+
+#### CMS
 - Joomla, Drupal, Wordpress, MODX
 
 ## Professional development
