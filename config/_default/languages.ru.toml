@@ -1,5 +1,5 @@
-languageCode = "ru"
-languageName = "Русский"
+locale = "ru"
+label = "Русский"
 languageDirection = "ltr"
 weight = 1
 
