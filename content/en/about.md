@@ -12,7 +12,7 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 ## Publications
 
-- 🌐 [Peter Galonza | Blog with Impostor syndrome](https://dzen.ru/pgalonza) - I analyze practical cases, share life hacks for IT specialists, and struggle with impostor syndrome.
+- 🌐 Blog with Impostor syndrome [Dzen](https://dzen.ru/pgalonza), [Setka](https://set.ki/LefCZjS), [Telegram](https://t.me/fake_expert), [Max](https://max.ru/join/IAbP0rFObipQPaBZd_4HY-n_IelrPBh65HIrakd-Wxs) - I analyze practical cases, share life hacks for IT specialists, and struggle with impostor syndrome.
 - 🌐 [Notes](https://notes.evaron.ru) - my notes: configuration templates, checklists for code review, tool collections.
 ---
 - 🎬 A basic introduction to the world of GenAI and interactions with it. [Presentation](/files/Базовое-введение-в-мир-GenAI-и-взаимодействия-с-ним-full.pdf), [Recorded presentation](https://disk.yandex.ru/i/ApMGHfwP8kiF0Q)
@@ -27,10 +27,13 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - Python, Bash
 
 #### Operating Systems
-- *NIX, Red Hat based, Debian based, AstraLinux
+- *NIX, Red Hat based, Debian based
+- AstraLinux, RedOS
 
 #### CI/CD
-- GitLab CI, Git, Ansible, Nexus
+- GitLab CI, Git
+- Ansible
+- Nexus
 
 #### Web Servers
 - Nginx
@@ -39,7 +42,8 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - Kafka
 
 #### Security & Authentication
-- Keycloak, PKI x509
+- Keycloak
+- PKI x509
 
 #### Monitoring & Logging
 - OpenSearch, Vector

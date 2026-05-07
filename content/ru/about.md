@@ -12,7 +12,7 @@ summary: "Подробный обзор навыков, опыта и профе
 
 ## Публикации
 
-- 🌐 [Пётр Галонза | Блог с синдромом самозванца](https://dzen.ru/pgalonza) - разбираю кейсы из практики, делюсь лайфхаками для IT‑специалистов и борюсь с синдромом самозванца.
+- 🌐 Блог с синдромом самозванца [Дзен](https://dzen.ru/pgalonza), [Сетка](https://set.ki/LefCZjS), [Телеграм](https://t.me/fake_expert), [Макс](https://max.ru/join/IAbP0rFObipQPaBZd_4HY-n_IelrPBh65HIrakd-Wxs) - разбираю кейсы из практики, делюсь лайфхаками для IT‑специалистов и борюсь с синдромом самозванца.
 - 🌐 [Notes](https://notes.evaron.ru) - мои заметки: шаблоны конфигураций, чек‑листы, подборки инструментов.
 ---
 - 🎬 Базовое введение в мир GenAI и взаимодействия с ним. [Презентиация](/files/Базовое-введение-в-мир-GenAI-и-взаимодействия-с-ним-full.pdf), [Запись](https://disk.yandex.ru/i/ApMGHfwP8kiF0Q)
@@ -29,10 +29,14 @@ summary: "Подробный обзор навыков, опыта и профе
 - Python, Bash
 
 #### Операционные системы
-- *NIX, Red Hat based, Debian based, AstraLinux
+- *NIX, Red Hat based, Debian based
+- AstraLinux, RedOS
 
 #### CI/CD
-- GitLab CI, Git, Ansible, Nexus
+- GitLab CI
+- Git
+- Ansible
+- Nexus
 
 #### Веб-серверы
 - Nginx
@@ -41,7 +45,8 @@ summary: "Подробный обзор навыков, опыта и профе
 - Kafka
 
 #### Безопасность и аутентификация
-- Keycloak, PKI x509
+- Keycloak
+- PKI x509
 
 #### Мониторинг и логи
 - OpenSearch, Vector
@@ -54,7 +59,6 @@ summary: "Подробный обзор навыков, опыта и профе
     - ГОСТ Р 58412
 
 ### Soft-skills
-
 - Менторство
 - Kanban-метод
 
