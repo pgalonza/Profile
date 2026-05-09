@@ -209,6 +209,11 @@ summary: "Подробный обзор навыков, опыта и профе
 ## Портфолио
 
 {{< figure
+    src="portfolio/digital-gov-docker.jpeg"
+    caption="Docker продвинутый уровень"
+    >}}
+
+{{< figure
     src="portfolio/DevOpsConf-2026.jpeg"
     caption="Участник конференции DevOpsConf 2026"
     >}}

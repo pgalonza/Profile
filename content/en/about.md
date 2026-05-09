@@ -206,6 +206,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 ## Portfolio
 
 {{< figure
+    src="portfolio/digital-gov-docker.jpeg"
+    caption="Docker advanced"
+    >}}
+
+{{< figure
     src="portfolio/DevOpsConf-2026.jpeg"
     caption="Conference participant DevOpsConf 2026"
     >}}
