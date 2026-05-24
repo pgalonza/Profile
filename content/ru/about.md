@@ -209,6 +209,11 @@ summary: "Подробный обзор навыков, опыта и профе
 ## Портфолио
 
 {{< figure
+    src="portfolio/devsecops-yanxdex.jpeg"
+    caption="DevSecOps в облачном CI/CD"
+    >}}
+
+{{< figure
     src="portfolio/digital-gov-docker.jpeg"
     caption="Docker продвинутый уровень"
     >}}

@@ -206,6 +206,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 ## Portfolio
 
 {{< figure
+    src="portfolio/devsecops-yanxdex.jpeg"
+    caption="DevSecOps in Cloud CI/CD"
+    >}}
+
+{{< figure
     src="portfolio/digital-gov-docker.jpeg"
     caption="Docker advanced"
     >}}
