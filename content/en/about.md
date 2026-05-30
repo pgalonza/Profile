@@ -55,6 +55,7 @@ In addition, I am interested in information security(DevSecOps, Application Secu
     - GOST R ISO/IEC 12207
     - GOST R 50922
     - GOST R 58412
+    - GOST R 70860-2023
 
 ### Soft-skills
 - Mentoring
