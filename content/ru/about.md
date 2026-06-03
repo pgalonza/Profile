@@ -211,6 +211,11 @@ summary: "Подробный обзор навыков, опыта и профе
 ## Портфолио
 
 {{< figure
+    src="portfolio/alfactf-2026.jpeg"
+    caption="AlfaCTF 2026"
+    >}}
+
+{{< figure
     src="portfolio/devsecops-yanxdex.jpeg"
     caption="DevSecOps в облачном CI/CD"
     >}}

@@ -208,6 +208,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 ## Portfolio
 
 {{< figure
+    src="portfolio/alfactf-2026.jpeg"
+    caption="AlfaCTF 2026"
+    >}}
+
+{{< figure
     src="portfolio/devsecops-yanxdex.jpeg"
     caption="DevSecOps in Cloud CI/CD"
     >}}
