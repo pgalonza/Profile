@@ -211,6 +211,11 @@ summary: "Подробный обзор навыков, опыта и профе
 ## Портфолио
 
 {{< figure
+    src="portfolio/digital-gov-api.jpeg"
+    caption="API продвинутый уровень"
+    >}}
+
+{{< figure
     src="portfolio/alfactf-2026.jpeg"
     caption="AlfaCTF 2026"
     >}}
