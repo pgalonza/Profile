@@ -3,7 +3,7 @@ label = "Русский"
 languageDirection = "ltr"
 weight = 1
 
-title = "Портфолио"
+title = "Визитка-резюме"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
