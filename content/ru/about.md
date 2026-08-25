@@ -211,6 +211,11 @@ summary: "Подробный обзор навыков, опыта и профе
 ## Портфолио
 
 {{< figure
+    src="portfolio/digital-gov-git.jpeg"
+    caption="Git продвинутый уровень"
+    >}}
+
+{{< figure
     src="portfolio/digital-gov-api.jpeg"
     caption="API продвинутый уровень"
     >}}

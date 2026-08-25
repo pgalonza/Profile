@@ -208,6 +208,11 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 ## Portfolio
 
 {{< figure
+    src="portfolio/digital-gov-git.jpeg"
+    caption="Git advanced"
+    >}}
+
+{{< figure
     src="portfolio/digital-gov-api.jpeg"
     caption="API advanced"
     >}}
