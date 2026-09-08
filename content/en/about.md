@@ -20,9 +20,23 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 - 🎬 How was a migration monolith-project from one CI system to another. [Presentation](/files/Со_своим_самоваром_Галонза_ред_итог.pdf), [Rutube](https://rutube.ru/video/0753e70d163073e9d6c16b1bef8af9ee/)
 - ✍️ Flow theory in Game Development. International Scientific Congress. The role of business in the transformation of society. [Presentation](/files/Теория-потока-в-Game-Development-pt.pdf), [Article](/files/Теория-потока-в-Game-Development.pdf)
 
+## Professional development
+
+- Managed Service for Kubernetes. (Yandex Practicum)
+- Software architecture. (Yandex Practicum)
+- Postgres for testers. (SoftLine)
+- Mentoring. (PSBank)
+- IPv6 Certification. (Hurricane Electric)
+- DevOps-engineer. (Skillbox)
+- Python-developer from nothing. (Skillbox)
+- SRE. (Slurm)
+- Digium, Asterisk administrator. (qtraining)
+- MTCNA. (MikroTik-Courses)
+
 ## Skills
 
-### Hard-skills
+{{< tabs >}}
+{{< tab label="Hard-skills" >}}
 
 #### Programming Languages
 - Python, Bash
@@ -56,12 +70,15 @@ In addition, I am interested in information security(DevSecOps, Application Secu
     - GOST R 50922
     - GOST R 58412
     - GOST R 70860-2023
+{{< /tab >}}
 
-### Soft-skills
+{{< tab label=" Soft-skills" >}}
+
 - Mentoring
 - Kanban-method
+{{< /tab >}}
 
-### There was an experience
+{{< tab label="There was an experience" >}}
 
 #### Telephony and VoIP
 - FreePBX, Asterisk, Yealink, Provisioning
@@ -105,9 +122,9 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 #### CI/CD
 - Jenkins
+{{< /tab >}}
 
-### Non-enterprise experience
-
+{{< tab label="Non-enterprise experience" >}}
 #### Web Frameworks
 - Flask
 
@@ -190,141 +207,5 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 #### CMS
 - Joomla, Drupal, Wordpress, MODX
-
-## Professional development
-
-- Managed Service for Kubernetes. (Yandex Practicum)
-- Software architecture. (Yandex Practicum)
-- Postgres for testers. (SoftLine)
-- Mentoring. (PSBank)
-- IPv6 Certification. (Hurricane Electric)
-- DevOps-engineer. (Skillbox)
-- Python-developer from nothing. (Skillbox)
-- SRE. (Slurm)
-- Digium, Asterisk administrator. (qtraining)
-- MTCNA. (MikroTik-Courses)
-
-
-## Portfolio
-
-{{< figure
-    src="portfolio/digital-gov-git.jpeg"
-    caption="Git advanced"
-    >}}
-
-{{< figure
-    src="portfolio/digital-gov-api.jpeg"
-    caption="API advanced"
-    >}}
-
-{{< figure
-    src="portfolio/alfactf-2026.jpeg"
-    caption="AlfaCTF 2026"
-    >}}
-
-{{< figure
-    src="portfolio/devsecops-yanxdex.jpeg"
-    caption="DevSecOps in Cloud CI/CD"
-    >}}
-
-{{< figure
-    src="portfolio/digital-gov-docker.jpeg"
-    caption="Docker advanced"
-    >}}
-
-{{< figure
-    src="portfolio/DevOpsConf-2026.jpeg"
-    caption="Conference participant DevOpsConf 2026"
-    >}}
-
-{{< figure
-    src="portfolio/k8s-yandex.jpeg"
-    caption="Yandex Managed Service for Kubernetes"
-    >}}
-
-{{< figure
-    src="portfolio/Diploma_ENG_YASA.jpeg"
-    caption="Software Architecture"
-    >}}
-
-{{< figure
-    src="portfolio/digital-gov-linux.jpeg"
-    caption="Linux advanced"
-    >}}
-
-{{< figure
-    src="portfolio/DevOpsConf-2025.jpeg"
-    caption="Conference participant DevOpsConf 2025"
-    >}}
-
-{{< figure
-    src="portfolio/HighLoad-2024.jpeg"
-    caption="Conference participant HighLoad++ 2024"
-    >}}
-
-{{< figure
-    src="portfolio/DevOpsConf-2024.jpeg"
-    caption="Conference participant DevOpsConf 2024"
-    >}}
-
-{{< figure
-    src="portfolio/Postgresql-QA.jpeg"
-    caption="Postgresql QA Certificate"
-    >}}
-
-{{< figure
-    src="portfolio/psb-3.jpeg"
-    caption="Mentor's Certificate"
-    >}}
-
-{{< figure
-    src="portfolio/asterisk-dcaa.jpeg"
-    caption="Asterisk Administrator Certificate"
-    >}}
-
-{{< figure
-    src="portfolio/Asterisk-qtCAA.jpeg"
-    caption="Asterisk Administrator Certificate"
-    >}}
-
-{{< figure
-    src="portfolio/ipv6-sage.jpeg"
-    caption="IPv6 Certificate"
-    >}}
-
-{{< figure
-    src="portfolio/mikrotik-mtcna.jpeg"
-    caption="MTCNA Certificate"
-    >}}
-
-{{< figure
-    src="portfolio/garant.jpeg"
-    caption="Garant Administrator Certificate"
-    >}}
-
-{{< figure
-    src="portfolio/Synergy.jpeg"
-    caption="Certificate of performance in the framework of the Congress"
-    >}}
-
----
-
-{{< figure
-    src="portfolio/psb-4.jpeg"
-    caption="Сommendation 2025"
-    >}}
-
-{{< figure
-    src="portfolio/psb-1.jpeg"
-    caption="Сommendation 2023"
-    >}}
-
-{{< figure
-    src="portfolio/psb-2.jpeg"
-    caption="Сommendation 2022"
-    >}}
-
-{{< figure
-    src="portfolio/FGBU-ZHKY-MO-RF.jpeg"
-    caption="Сommendation 2018"
-    >}}
+{{< /tab >}}
+{{< /tabs >}}

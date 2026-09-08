@@ -21,10 +21,23 @@ summary: "Подробный обзор навыков, опыта и профе
 - Быстрый старт в Kafka. [Презентация](/files/Быстрый-старт-в-Kafka.pdf)
 - ✍️ Теория потока в Game Development. Международный научный конгресс. Роль бизнеса в трансформации общества. [Презентация](/files/Теория-потока-в-Game-Development-pt.pdf), [Статья](/files/Теория-потока-в-Game-Development.pdf)
 
+## Повышение квалификации
+
+- Managed Service for Kubernetes. (Яндекс Практикум)
+- Архитектура программного обеспечения. (Яндекс Практикум)
+- Postgres для тестеровщиков. (SoftLine)
+- Наставничество. (PSBank)
+- IPv6 Certification. (Hurricane Electric)
+- Профессия DevOps-инженер. (Skillbox)
+- Python-разработчик с нуля. (Skillbox)
+- SRE. (Slurm)
+- Digium, Asterisk administrator. (qtraining)
+- MTCNA. (MikroTik-Courses)
 
 ## Skills
 
-### Hard-skills
+{{< tabs >}}
+{{< tab label="Hard-skills" >}}
 
 #### Языки программирования
 - Python, Bash
@@ -59,12 +72,15 @@ summary: "Подробный обзор навыков, опыта и профе
     - ГОСТ Р 50922
     - ГОСТ Р 58412
     - ГОСТ Р 70860-2023
+{{< /tab >}}
 
-### Soft-skills
+{{< tab label="Soft-skills" >}}
+
 - Менторство
 - Kanban-метод
+{{< /tab >}}
 
-### Имел опыт работы
+{{< tab label="Имел опыт работы" >}}
 
 #### Телефония и VoIP
 - FreePBX, Asterisk, Yealink, Provisioning
@@ -108,8 +124,9 @@ summary: "Подробный обзор навыков, опыта и профе
 
 #### CI/CD
 - Jenkins
+{{< /tab >}}
 
-### Некорпоративный опыт
+{{< tab label="Некорпоративный опыт" >}}
 
 #### Веб-фреймворки
 - Flask
@@ -193,142 +210,5 @@ summary: "Подробный обзор навыков, опыта и профе
 
 #### CMS
 - Joomla, Drupal, Wordpress, MODX
-
-## Повышение квалификации
-
-- Managed Service for Kubernetes. (Яндекс Практикум)
-- Архитектура программного обеспечения. (Яндекс Практикум)
-- Postgres для тестеровщиков. (SoftLine)
-- Наставничество. (PSBank)
-- IPv6 Certification. (Hurricane Electric)
-- Профессия DevOps-инженер. (Skillbox)
-- Python-разработчик с нуля. (Skillbox)
-- SRE. (Slurm)
-- Digium, Asterisk administrator. (qtraining)
-- MTCNA. (MikroTik-Courses)
-
-
-## Портфолио
-
-{{< figure
-    src="portfolio/digital-gov-git.jpeg"
-    caption="Git продвинутый уровень"
-    >}}
-
-{{< figure
-    src="portfolio/digital-gov-api.jpeg"
-    caption="API продвинутый уровень"
-    >}}
-
-{{< figure
-    src="portfolio/alfactf-2026.jpeg"
-    caption="AlfaCTF 2026"
-    >}}
-
-{{< figure
-    src="portfolio/devsecops-yanxdex.jpeg"
-    caption="DevSecOps в облачном CI/CD"
-    >}}
-
-{{< figure
-    src="portfolio/digital-gov-docker.jpeg"
-    caption="Docker продвинутый уровень"
-    >}}
-
-{{< figure
-    src="portfolio/DevOpsConf-2026.jpeg"
-    caption="Участник конференции DevOpsConf 2026"
-    >}}
-
-{{< figure
-    src="portfolio/k8s-yandex.jpeg"
-    caption="Yandex Managed Service for Kubernetes"
-    >}}
-
-{{< figure
-    src="portfolio/Diploma_RU_YASA.jpeg"
-    caption="Архитектура программногообеспечения"
-    >}}
-
-{{< figure
-    src="portfolio/digital-gov-linux.jpeg"
-    caption="Линукс продвинутый уровень"
-    >}}
-
-{{< figure
-    src="portfolio/DevOpsConf-2025.jpeg"
-    caption="Участник конференции DevOpsConf 2025"
-    >}}
-
-{{< figure
-    src="portfolio/HighLoad-2024.jpeg"
-    caption="Участник конференции HighLoad++ 2024"
-    >}}
-
-{{< figure
-    src="portfolio/DevOpsConf-2024.jpeg"
-    caption="Участник конференции DevOpsConf 2024"
-    >}}
-
-{{< figure
-    src="portfolio/Postgresql-QA.jpeg"
-    caption="Postgresql QA Сертификат"
-    >}}
-
-{{< figure
-    src="portfolio/psb-3.jpeg"
-    caption="Сертификат наставника"
-    >}}
-
-{{< figure
-    src="portfolio/asterisk-dcaa.jpeg"
-    caption="Сертификат администратора Asterisk"
-    >}}
-
-{{< figure
-    src="portfolio/Asterisk-qtCAA.jpeg"
-    caption="Сертификат администратора Asterisk"
-    >}}
-
-{{< figure
-    src="portfolio/ipv6-sage.jpeg"
-    caption="Сертификат IPv6"
-    >}}
-
-{{< figure
-    src="portfolio/mikrotik-mtcna.jpeg"
-    caption="Сертификат MTCNA"
-    >}}
-
-{{< figure
-    src="portfolio/garant.jpeg"
-    caption="Сертификат администратора Garant"
-    >}}
-
-{{< figure
-    src="portfolio/Synergy.jpeg"
-    caption="Сертификат о выступлении в рамках конгресса"
-    >}}
-
----
-
-{{< figure
-    src="portfolio/psb-4.jpeg"
-    caption="Благодарность 2025"
-    >}}
-
-
-{{< figure
-    src="portfolio/psb-1.jpeg"
-    caption="Благодарность 2023"
-    >}}
-
-{{< figure
-    src="portfolio/psb-2.jpeg"
-    caption="Благодарность 2022"
-    >}}
-
-{{< figure
-    src="portfolio/FGBU-ZHKY-MO-RF.jpeg"
-    caption="Благодарность 2018"
-    >}}
+{{< /tab >}}
+{{< /tabs >}}

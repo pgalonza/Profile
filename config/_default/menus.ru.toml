@@ -20,6 +20,11 @@
   pageRef = "projects"
   weight = 20
 
+[[main]]
+  name = "Сертификаты"
+  pageRef = "certificates"
+  weight = 30
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
