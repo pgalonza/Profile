@@ -1,6 +1,6 @@
 locale = "en"
 label = "English"
-languageDirection = "ltr"
+direction = "ltr"
 weight = 2
 
 title = "Visiting card - resume"

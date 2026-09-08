@@ -1,6 +1,6 @@
 locale = "ru"
 label = "Русский"
-languageDirection = "ltr"
+direction = "ltr"
 weight = 1
 
 title = "Визитка-резюме"
