@@ -23,7 +23,6 @@ title = "Visiting card - resume"
   links = [
      { email = "mailto:p.galonza@evaron.ru" },
      { github = "https://github.com/pgalonza" },
-     { gitlab = "https://gitlab.com/pgalonza" },
      { dzen = "https://dzen.ru/pgalonza" },
      { notes = "https://notes.evaron.ru/" },
      { setka = "https://set.ki/NFb3KGJ" },
