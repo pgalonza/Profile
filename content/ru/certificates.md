@@ -8,6 +8,18 @@ summary: ""
 
 {{< gallery >}}
 {{< figure
+    src="portfolio/avitoctf-2026.jpeg"
+    caption="AvitoCTF 2026 5-е место"
+    class="grid-w65"
+    >}}
+
+{{< figure
+    src="portfolio/TimePad-AMLive-080926.jpeg"
+    caption="AMLive Сравнение российских NGFW"
+    class="grid-w65"
+    >}}
+
+{{< figure
     src="portfolio/digital-gov-git.jpeg"
     caption="Git продвинутый уровень"
     class="grid-w65"
