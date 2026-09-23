@@ -8,6 +8,12 @@ summary: ""
 
 {{< gallery >}}
 {{< figure
+    src="portfolio/fspctf-2026.jpg"
+    caption="ФСП CTF"
+    class="grid-w65"
+    >}}
+
+{{< figure
     src="portfolio/avitoctf-2026.jpeg"
     caption="AvitoCTF 2026 5-е место"
     class="grid-w65"
