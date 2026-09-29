@@ -12,7 +12,7 @@ In addition, I am interested in information security(DevSecOps, Application Secu
 
 ## Publications
 
-- 🌐 Blog with Impostor syndrome [Dzen](https://dzen.ru/pgalonza), [Setka](https://set.ki/LefCZjS), [Telegram](https://t.me/fake_expert) - I analyze practical cases, share life hacks for IT specialists, and struggle with impostor syndrome.
+- 🌐 Blog with Impostor syndrome [Dzen](https://dzen.ru/fake_expert), [Setka](https://set.ki/LefCZjS), [Telegram](https://t.me/fake_expert) - I analyze practical cases, share life hacks for IT specialists, and struggle with impostor syndrome.
 - 🌐 [Notes](https://notes.evaron.ru) - my notes: configuration templates, checklists for code review, tool collections.
 ---
 - 🎬 Book Club | Dale Carnegie "How to Win Friends and Influence People" [Presentation](/files/Как-завоёвывать-друзей-и-оказывать-влияние-на-людей.pdf)
