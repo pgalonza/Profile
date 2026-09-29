@@ -6,9 +6,31 @@ description: "Detailed information about skills, experience, and projects of Dev
 summary: "Detailed overview of skills, experience, and professional development of DevOps engineer Peter Galonza. Includes technical competencies, publications, and certifications."
 ---
 
+{{< accordion mode="collapse" >}}
+{{< accordionItem title="Shortly" open=true >}}
 I am currently working as a DevOps engineer. My task is to support the project at all stages of its life cycle. In addition, I act as a mentor and train interns. I like to share my knowledge and experience with other people, helping them develop. To keep up with the latest trends and techniques, I actively read technical literature, attend conferences and meetups, and take courses. This allows me to get inspired and find new ideas for my work.
 
 In addition, I am interested in information security(DevSecOps, Application Security), SRE, Arhitecture.
+{{< /accordionItem >}}
+
+{{< accordionItem title="More detailed" md=true >}}
+DevOps engineer with 6+ years of experience. For more than 10 years in IT, he has worked his way up from support to the role of managing expert. My focus is automation, stability and security of the infrastructure, as well as team development.
+
+He started with technical support: he dealt with incidents, including payment systems, reduced the burden on developers, collected a database of templates and trained the first line. At the same time, he actively worked with monitoring (Zabbix) and task accounting systems (Bitrix24, Ostick).
+
+Later, he delved into system automation and infrastructure. In one of the companies, I solved the acute problem of lack of licenses and equipment: I deployed MS Office and ConsultantPlus on Linux, set up cross‑platform access to printers, thereby significantly reducing dependence on Windows. At the same time, he implemented Zabbix in order to respond faster to incidents.
+
+In a large housing and communal services infrastructure, he was responsible for comprehensive IT support (virtualization, network, servers, operating systems, telephony): I deployed an OpenSource mail server for 4,500 employees, which made it possible to meet data storage requirements and reduce software costs. Automated mailbox configuration and integration with Active Directory, as well as tools for searching and deleting erroneous emails. I set up telephony (FreePBX, Yealink) and trunks between branches - this significantly reduced communication costs. To speed up the response to accidents, I implemented alerts from Zabbix via Asterisk so that problems can be fixed even at night. During the pandemic, I quickly prepared the infrastructure and instructions for remote work - employees switched to a new mode in a short time. Another example of lean solutions is the assembly of POE power for cameras and image output on Raspberry PI: this made it possible to do without expensive specialized equipment.
+
+In the banking environment, as a DevOps, he consistently developed CI/CD and an automation culture. Migrated projects from Jenkins to GitLab CI, unified processes and reduced support resources. I automated the comparison of commits and tasks in Jira, which freed release managers from routine reports. He developed a graphical utility that made it possible to use GitLab CI even in projects with automation processes built for a different tool.
+
+In higher roles, he built processes from scratch to meet strict security requirements: adapted CI/CD to the results of information security audits, prepared projects for commercial commissioning with mission critical and business critical statuses. Implemented key tools: Keycloak, Kafka, OpenSearch, Hashicorp Vault, Docker. I worked on role models and access policies to ensure that the team worked safely and transparently. I paid special attention to reducing risks: I set up a Content Security Policy, migrated repositories as part of import substitution, and integrated secret management into CI/CD.
+
+He reduced the time of routine operations - for example, he brought the service establishment in CI to 30 minutes instead of a couple of hours. I always strive for measurable improvements: less manual labor, higher predictability, clear processes and understandable metrics. 5+ years without failures in my area of responsibility (the only incident was at the start of my career).
+
+The development of people and knowledge has always been an important part of the work. He participated in projects within the framework of the corporate school of digital competencies: he trained students and connected them to work tasks - this helped reduce the backlog of projects. He prepared checklists for the start of projects and onboarding interns, systematized the knowledge base, organized channels with books and articles. I made presentations, led a book club and an open microphone - I believe that the exchange of experience directly affects the maturity of the team.
+{{< /accordionItem >}}
+{{< /accordion >}}
 
 ## Publications
 
