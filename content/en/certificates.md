@@ -8,6 +8,12 @@ summary: ""
 
 {{< gallery >}}
 {{< figure
+    src="portfolio/kubstu-ctf-2026.jpeg"
+    caption="KubSTU CTF 2026"
+    class="grid-w65"
+    >}}
+
+{{< figure
     src="portfolio/fspctf-2026.jpg"
     caption="FSP CTF"
     class="grid-w65"
