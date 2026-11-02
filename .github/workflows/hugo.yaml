@@ -30,7 +30,7 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: hugo --gc --minify
       - name: Archive hugo artifacts
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: hugo-artifact
           path: ./public
