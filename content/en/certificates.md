@@ -8,6 +8,12 @@ summary: ""
 
 {{< gallery >}}
 {{< figure
+    src="portfolio/psb-5.jpeg"
+    caption="Mentoring training"
+    class="grid-w65"
+    >}}
+
+{{< figure
     src="portfolio/kubstu-ctf-2026.jpeg"
     caption="KubSTU CTF 2026"
     class="grid-w65"
